@@ -2,6 +2,8 @@
 
 **_Universidad de Chile_**
 
+>_Advanced Center for Chronic Diseases (ACCDiS)_
+>
 > _Faculdad de Ciéncias Químicas y Farmacéuticas (FaCiQyF)_
 > 
 > _Unidad de Genómica Avanzada (UGA)_
